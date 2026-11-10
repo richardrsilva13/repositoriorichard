@@ -1,1 +1,15 @@
 
+O que é um Commit?
+
+Quando você está programando e faz alterações nos seus arquivos (como criar uma nova funcionalidade ou corrigir um bug), essas mudanças ficam salvas apenas na sua máquina. O commit oficializa essas alterações no histórico do Git.
+Cada commit exige uma mensagem explicativa (ex: "Fix: Corrige bug na tela de login") e gera um código identificador único. Isso cria uma linha do tempo detalhada, permitindo que você veja quem alterou o quê, quando e por quê.
+
+Qual a vantagem do GitHub?
+
+Enquanto o Git é a ferramenta que roda no seu computador para criar o histórico (os commits), o GitHub é a rede social e o servidor na nuvem onde você envia esse histórico.
+Suas principais vantagens são:
+• Backup seguro na nuvem: Se o seu computador quebrar ou for roubado, todo o seu código e o histórico de commits continuam salvos de forma segura na internet.
+• Trabalho em equipe (Colaboração): Várias pessoas podem mexer no mesmo projeto ao mesmo tempo sem apagar o trabalho das outras. O GitHub ajuda a combinar essas alterações (processo chamado de Merge).
+• Portfólio para programadores: Ele funciona como um currículo visual. Recrutadores e outros desenvolvedores podem entrar no seu perfil, ver seus projetos públicos e analisar a qualidade do seu código.
+• Histórico e Reversão de Erros: Se uma atualização nova quebrar o sistema, o GitHub permite que você navegue pelos commits passados e volte o projeto para uma versão antiga que funcionava perfeitamente.
+• Comunidade de Código Aberto (Open Source): Você pode hospedar projetos para que qualquer pessoa do mundo ajude a melhorar o seu código, ou você mesmo pode contribuir em projetos gigantes (como o próprio Linux ou o VS Code).
